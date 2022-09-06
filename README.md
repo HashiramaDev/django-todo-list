@@ -28,7 +28,6 @@ And then start the server (default: http://localhost:8000)
 Now you can browse the [API](http://localhost:8000/api/)
 or start on the [landing page](http://localhost:8000/)
 
-
 [license-url]: https://github.com/rtzll/django-todolist/blob/master/LICENSE
 [license-image]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat
 
